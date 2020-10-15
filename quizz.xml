@@ -31,7 +31,6 @@
 	<shuffleanswers>1</shuffleanswers>
 	<single>true</single>
 </question>
-
 <?xml version="1.0"?>
 <question type="matching">
 	<name>
@@ -56,5 +55,4 @@
 	</subquestion>
 	<shuffleanswers>true</shuffleanswers>
 </question>
-
 </quiz>
